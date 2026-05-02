@@ -59,7 +59,7 @@ Open to collaboration. Feel free to fork and contribute.
 
 ## 📬 Contact
 
-LinkedIn: (add your link here)
+
 
 ---
 
